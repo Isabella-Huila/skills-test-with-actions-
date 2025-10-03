@@ -39,7 +39,7 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 -->
 
 ---
-Cambio 
+
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/test-with-actions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
